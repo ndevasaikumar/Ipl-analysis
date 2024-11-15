@@ -1,3 +1,1 @@
-Dataset Links :
-df_match: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=matches.csv
-df_del : https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=deliveries.csv
+Dataset Link : https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament
